@@ -5,3 +5,6 @@
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 
 This repository contains resources for Ensuring App Quality with Continuous Integration.
+
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/darlingtim/ios-short-devops-circleci/tree/circleci-project-setup.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/darlingtim/ios-short-devops-circleci/tree/circleci-project-setup)
