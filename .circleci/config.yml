@@ -21,6 +21,7 @@ jobs:
     steps:
       # Checkout the code as the first step.
       - checkout
+      - run: pod init
       - run: pod install # Install CocoaPods dependencies
       - run: fastlane scan # Run tests using Fastlane
 
